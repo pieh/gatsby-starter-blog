@@ -1,4 +1,5 @@
 module.exports = {
+  flags: { QUERY_ON_DEMAND: true },
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
